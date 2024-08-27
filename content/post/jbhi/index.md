@@ -1,5 +1,5 @@
 ---
-title: A Manuscript "Communication-efficient Quantum Federated Learning for Multi-Center Healthcare Data", Accepted In IEEE EMBS International Conference on Biomedical and Health Informatics, will be held in Nov 2024, Hosuton. 
+title: A Manuscript "Communication-efficient Quantum Federated Learning for Multi-Center Healthcare Data", Accepted In IEEE EMBS International Conference on Biomedical and Health Informatics, will be held in Nov 2024, Houston, TX. 
 subtitle: In the healthcare sector, the scarcity of data and privacy concerns present formidable challenges to the widespread adoption of machine learning. In the present-day scenario, Federated Learning (FL) emerges as a pivotal solution, fostering the rapid evolution of distributed machine learning paradigms while adeptly addressing the problem of data governance and privacy. The proposed framework has the potential to incorporate privacy, security, and the expedited processing of distributed data. In addition to reducing the communication rounds by optimizing the QFL training algorithm and achieving quicker convergence.
 
 # Summary for listings and search engines
