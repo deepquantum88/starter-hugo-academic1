@@ -1,5 +1,5 @@
 ---
-title: On the Robustness of Variational Quantum Classifier against Label Flipping Attacks in Federated Learning for Semiconductor Manufacturing
+title: A Manuscript "On the Robustness of Variational Quantum Classifier against Label Flipping Attacks in Federated Learning for Semiconductor Manufacturing" Accepted in IEEE International Conference on Quantum Computing and Engineering (QCE), 2024, will be presented on Sep-16, Montreal, Canada. 
 subtitle: Due to the widespread presence of manufacturing units, real-time data collection becomes a challenging task, especially as the scale of operations continues to expand. Moreover, manufacturing industries often deal with sensitive and proprietary data and are reluctant to share data directly in areas like lithography hotspot detection (LHD) due to concerns about IP protection and regulatory compliance.
 
 # Summary for listings and search engines
