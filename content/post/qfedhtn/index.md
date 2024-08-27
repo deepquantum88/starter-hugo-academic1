@@ -1,15 +1,15 @@
 ---
-title: A cover art assosciated with "Quantum Machine Learning Predicting ADME-Tox Properties" has been accepted as Front Cover in ACS Journal of Chemical Information and Modeling.
-subtitle: In the drug discovery paradigm, the evaluation of absorption, distribution, metabolism, and excretion (ADME) and toxicity properties of new chemical entities is one of the most critical issues, which is a time-consuming process, immensely expensive, and poses formidable challenges in pharmaceutical R&D. Currently, the blend of quantum computation and machine learning has attracted considerable attention in almost every field ranging from chemistry to biomedicine and several engineering disciplines as well. Quantum computers have the potential to bring advances in high-throughput experimental techniques and in screening billions of molecules by reducing development costs and time associated with the drug discovery process. 
-
+title: An arxiv preprint "Federated Hierarchical Tensor Networks: a Collaborative Learning Quantum AI-Driven Framework for Healthcare"
+subtitle:  Experiments on popular medical image datasets show that the federated quantum tensor network model achieved a mean receiver-operator characteristic area under the curve (ROC-AUC) between 0.91-0.98. Experimental results demonstrate that the quantum federated global model, consisting of highly entangled tensor network structures, showed better generalization and robustness and achieved higher testing accuracy, surpassing the performance of locally trained clients under unbalanced data distributions among healthcare institutions.
 # Summary for listings and search engines
-summary: Currently, the blend of quantum computation and machine learning has attracted considerable attention in almost every field ranging from chemistry to biomedicine and several engineering disciplines as well. Quantum computers have the potential to bring advances in high-throughput experimental techniques and in screening billions of molecules by reducing development costs and time associated with the drug discovery process. 
+summary: Healthcare industries frequently handle sensitive and proprietary data, and due to strict privacy regulations, they are often reluctant to share data directly. In this work, we proposed a federated learning framework based on quantum tensor networks, which leverages the principles of many-body quantum physics. Currently, there are no known classical tensor networks implemented in federated settings.
+ Furthermore, we investigated the effectiveness and feasibility of the proposed framework by conducting a differential privacy analysis to ensure the security of sensitive data across healthcare institutions.
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2023-09-12T00:00:00Z'
+date: '2024-08-04T00:00:00Z'
 
 # Date updated
 #lastmod: '2020-12-13T00:00:00Z'
@@ -30,8 +30,8 @@ image:
 
 authors:
   - Amandeep Singh Bhatia
-  - Mandeep Kaur Saggi
-  - Sabre Kais
+  - David E.B. Neira
+
 
 #tags:
 #  - Academic
