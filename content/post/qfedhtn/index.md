@@ -1,5 +1,5 @@
 ---
-title: An arxiv preprint "Federated Hierarchical Tensor Networks: a Collaborative Learning Quantum AI-Driven Framework for Healthcare"
+title: An arxiv preprint Federated Hierarchical Tensor Networks a Collaborative Learning Quantum AI-Driven Framework for Healthcare
 subtitle:  Experiments on popular medical image datasets show that the federated quantum tensor network model achieved a mean receiver-operator characteristic area under the curve (ROC-AUC) between 0.91-0.98. Experimental results demonstrate that the quantum federated global model, consisting of highly entangled tensor network structures, showed better generalization and robustness and achieved higher testing accuracy, surpassing the performance of locally trained clients under unbalanced data distributions among healthcare institutions.
 # Summary for listings and search engines
 summary: Healthcare industries frequently handle sensitive and proprietary data, and due to strict privacy regulations, they are often reluctant to share data directly. In this work, we proposed a federated learning framework based on quantum tensor networks, which leverages the principles of many-body quantum physics. Currently, there are no known classical tensor networks implemented in federated settings.
