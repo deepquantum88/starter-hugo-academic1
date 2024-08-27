@@ -70,7 +70,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Postdoctoral Research Associate
+        - title: Senior Postdoctoral Research Associate
           company: Purdue University
           company_url: https://www.purdue.edu/
           #company_logo: org-gc
@@ -80,8 +80,10 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Developing quantum/classical algorithms for different applications in STEM disciplines
+              * Developing quantum/classical AI algorithms for different applications in STEM disciplines
               * Mentoring graduate students
+              * Writing research grants/proposals
+        
         - title: Postdoctoral Researcher
           company: University of Tuebingen
           company_url: https://uni-tuebingen.de/en/
