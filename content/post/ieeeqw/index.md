@@ -1,15 +1,26 @@
 ---
-title: A cover art assosciated with "Quantum Machine Learning Predicting ADME-Tox Properties" has been accepted as Front Cover in ACS Journal of Chemical Information and Modeling.
-subtitle: In the drug discovery paradigm, the evaluation of absorption, distribution, metabolism, and excretion (ADME) and toxicity properties of new chemical entities is one of the most critical issues, which is a time-consuming process, immensely expensive, and poses formidable challenges in pharmaceutical R&D. Currently, the blend of quantum computation and machine learning has attracted considerable attention in almost every field ranging from chemistry to biomedicine and several engineering disciplines as well. Quantum computers have the potential to bring advances in high-throughput experimental techniques and in screening billions of molecules by reducing development costs and time associated with the drug discovery process. 
+title: On the Robustness of Variational Quantum Classifier against “Label Flipping Attacks” in Federated Learning for Semiconductor Manufacturing
+subtitle: Due to the widespread presence of manufacturing
+units, real-time data collection becomes a challenging task,
+especially as the scale of operations continues to expand. Moreover,
+manufacturing industries often deal with sensitive and
+proprietary data and are reluctant to share data directly in areas
+like lithography hotspot detection (LHD) due to concerns about
+IP protection and regulatory compliance.
 
 # Summary for listings and search engines
-summary: Currently, the blend of quantum computation and machine learning has attracted considerable attention in almost every field ranging from chemistry to biomedicine and several engineering disciplines as well. Quantum computers have the potential to bring advances in high-throughput experimental techniques and in screening billions of molecules by reducing development costs and time associated with the drug discovery process. 
-
+summary: In
+this work, we proposed a Quantum Federated Learning (QFL)
+framework for lithography hotspot detection and offer a unique
+solution to address the challenges mentioned above effectively.
+To demonstrate the generalization ability and robustness, we
+performed extensive experiments with label-flipping attacks in
+the proposed framework.
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2023-09-12T00:00:00Z'
+date: '2024-08-01T00:00:00Z'
 
 # Date updated
 #lastmod: '2020-12-13T00:00:00Z'
@@ -30,8 +41,8 @@ image:
 
 authors:
   - Amandeep Singh Bhatia
-  - Mandeep Kaur Saggi
   - Sabre Kais
+  - Muhammad Ashraful Alam
 
 #tags:
 #  - Academic
